@@ -1,6 +1,6 @@
 # nelson-mandela-tribute
 
-# first-project
+# my-first-project
 
 Tribute Page for Nelson Mandela
 
