@@ -1,0 +1,72 @@
+body {
+	
+	font-family: Garamond, Georgia, Serif;
+	text-align: center;
+	/* background-color: black; */
+	line-height: 2rem;
+	font-size: 1.3rem;
+	margin: auto;
+	background-image: url("https://codemyui.com/wp-content/uploads/2016/11/pure-css-snow-animation.gif");
+	color: silver;
+	
+}
+
+.main{
+	margin:auto;
+	width: 60%;
+	/* background-color: black; */
+	background: rgba(0, 0, 0, 0.6) ;
+	padding: 1% 5% 5% 5%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	/* opacity: 0.5; */
+}
+
+
+
+h1{
+	
+	font-size: 4.5rem;
+	/* margin: 100px 100px 20px 100px;   */
+	/*top margin is 25px /right margin is 50px /bottom margin is 75px /left margin is 100px*/
+}
+
+.sub-title{
+
+	/* margin: 0px 100px 75px 680px; 
+	max-width: 550px;  */
+	text-align: center;
+	/* margin: auto; */
+	margin-bottom: 5%;
+}
+
+
+
+.tribute-info{
+
+	text-align: justify;
+
+}
+
+.footer{
+
+	padding: 30px 5px 30px 5px;
+	margin-left: 5%;
+	margin-right: 5%;
+	/* width: 100%; */
+	background-color: black;
+	color: white;
+
+}
+
+.resources{
+
+	text-align: justify;
+
+}
+
+a:hover{
+
+	color: red;
+
+}
