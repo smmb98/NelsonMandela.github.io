@@ -2,7 +2,8 @@
 
 # my-first-project
 
-Tribute Page for Nelson Mandela
+Tribute Page for Nelson Mandela:
+https://smmb98.github.io/nelson-mandela-tribute/
 
 This page is made by using basic HTML and CSS
 
