@@ -45,19 +45,16 @@ h1 {
 
 .footer {
   padding: 30px 5px 30px 5px;
+  /* padding: 1.5625vw 0.2604166666666667vw 1.5625vw 0.2604166666666667vw; */
   margin-left: 5%;
+  /* margin-left: 5vw; */
   margin-right: 5%;
-  /* width: 100%; */
   background-color: black;
   color: white;
 }
 
 .resources {
   text-align: justify;
-}
-
-a {
-  width: 50vw;
 }
 
 a:hover {
@@ -67,4 +64,19 @@ a:hover {
 .image {
   max-width: 100%;
   height: auto;
+}
+
+@media all and (max-width: 800px) {
+  .main {
+    margin: 0;
+    margin-bottom: 5vh;
+    /* margin: auto; */
+    width: 100%;
+  }
+
+  .footer {
+    margin: 0;
+    /* margin-right: 0; */
+    width: 108.5vw;
+  }
 }
